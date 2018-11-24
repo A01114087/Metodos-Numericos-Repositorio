@@ -2,7 +2,7 @@
 Actividades de la materia de metodos numericos
 
 Primer parcial
-- [Convergencia y Divergencia](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Primer%20parcial/Convergencia%20y%20Divergencia.p)
+- [Convergencia y Divergencia](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Primer%20parcial/Convergencia%20y%20Divergencia.py)
 - [Falsa Posicion](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Primer%20parcial/Falsa%20Posicion)
 - [Metodo de Biseccion](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Primer%20parcial/Metodo%20de%20Biseccion)
 - [Metodo Grafico](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Primer%20parcial/Metodo%20graficohttps://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Primer%20parcial/Metodo%20grafico)
