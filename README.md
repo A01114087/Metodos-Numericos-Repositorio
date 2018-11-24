@@ -20,5 +20,5 @@ Segundo Parcial
 Tercer Parcial
 - [Integracion Numerica](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Tercer%20parcial/Integracion%20Numerica)
 - [Interpolacion Polinomial](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Tercer%20parcial/Interpolacion%20Polinomial)
-- [Metodo de Euler](https://github.com/A01114087/Metodos-Numericos-)Repositorio/tree/master/Tercer%20parcial/Metodo%20de%20Euler%20-%20Ecuaciones%20Diferenciales
+- [Metodo de Euler](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Tercer%20parcial/Metodo%20de%20Euler%20-%20Ecuaciones%20Diferenciales)
 - [Regresion Polinomial](https://github.com/A01114087/Metodos-Numericos-Repositorio/tree/master/Tercer%20parcial/Regresion%20Polinomial)
